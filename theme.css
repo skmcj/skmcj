@@ -1,0 +1,34 @@
+@media (prefers-color-scheme: light) {
+    .Box-body {
+        background-color: #eaeef1;
+    }
+
+    span[data-bk="vm-block"] {
+        border-radius: 8px;
+        padding: 5px;
+        box-shadow: 3px 3px 6px 0 rgba(0, 0, 0, 0.15), -3px -3px 6px 0 rgba(255, 255, 255, 0.7);
+        display: inline-flex;
+    }
+
+    span[data-bk="vm-block"]+span[data-bk="vm-block"] {
+        margin-left: 12px;
+    }
+
+}
+
+@media (prefers-color-scheme: dark) {
+    .Box-body {
+        background-color: #1d1e1f;
+    }
+
+    span[data-bk="vm-block"] {
+        border-radius: 8px;
+        padding: 5px;
+        box-shadow: 3px 3px 6px 0 rgba(0, 0, 0, 0.85), -3px -3px 6px 0 rgba(121, 121, 121, 0.3);
+        display: inline-flex;
+    }
+
+    span[data-bk="vm-block"]+span[data-bk="vm-block"] {
+        margin-left: 12px;
+    }
+}

@@ -6,7 +6,9 @@
 
 
 
-![Hello](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&size=32&width=435&lines=%3C+Hello+Visitor+%2F%3E)
+<div align="center">
+<img alt="hello" src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&size=32&width=435&lines=%3C+Hello+Visitor+%2F%3E" />
+</div>
 
 
 
@@ -29,8 +31,10 @@ Welcome, You are my <img src="https://profile-counter.glitch.me/skmcj/count.svg"
 
 
 <div align="center">
-<span class="vm-block"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skmcj&layout=compact&hide=html,css&title_color=83ccd2&icon_color=c0d09d&text_color=61677c&hide_border=true&locale=cn" height=160/></span><span class="vm-block" style="margin-left: 12px;"><img src="https://github-readme-stats.vercel.app/api?username=skmcj&count_private=true&show_icons=true&title_color=83ccd2&icon_color=c0d09d&text_color=61677c&hide_border=true&include_all_commits=true&locale=cn" height=160/></span>
+<span data-bk="vm-block"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skmcj&layout=compact&hide=html,css&title_color=83ccd2&icon_color=c0d09d&text_color=61677c&hide_border=true&locale=cn" height=160/></span>
+<span data-bk="vm-block" style="margin-left: 12px;"><img src="https://github-readme-stats.vercel.app/api?username=skmcj&count_private=true&show_icons=true&title_color=83ccd2&icon_color=c0d09d&text_color=61677c&hide_border=true&include_all_commits=true&locale=cn" height=160/></span>
 </div>
+
 
 ---
 
@@ -45,6 +49,10 @@ Welcome, You are my <img src="https://profile-counter.glitch.me/skmcj/count.svg"
 </div>
 
 
+
+
+---
+
 <div align="center">
   <a href="https://static.ltgcm.top/md/20240322173736.jpg" target="_blank" style="display: inline-block;">
     <img
@@ -53,4 +61,3 @@ Welcome, You are my <img src="https://profile-counter.glitch.me/skmcj/count.svg"
     />
   </a>
 </div>
-
