@@ -13,7 +13,7 @@
 
 
 <div align="center" color="#61677c">
-Welcome, You are my <img src="https://hitwebcounter.com/counter/counter.php?page=21134196&style=0010&nbdigits=9&type=ip&initCount=1000" title="Counter" alt="Visitors" border="0" /> visitor, Thank You!🦀🦀
+Welcome, You are my <img src="https://count.getloli.com/@skmcj?name=skmcj&theme=minecraft&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=1000" alt="Visitors" /> visitor, Thank You!🦀🦀
 </div>
 
 
