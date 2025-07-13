@@ -13,7 +13,7 @@
 
 
 <div align="center" color="#61677c">
-Welcome, You are my <img src="https://count.getloli.com/@skmcj?name=skmcj&theme=minecraft&padding=8&offset=0&align=center&scale=0.4&pixelated=1&darkmode=auto&num=1000" alt="Visitors" /> visitor, Thank You!🦀🦀
+Welcome, You are my <img src="https://count.getloli.com/@skmcj?name=skmcj&theme=minecraft&padding=8&offset=0&align=center&scale=0.4&pixelated=1&darkmode=auto" alt="Visitors" /> visitor, Thank You!🦀🦀
 </div>
 
 
